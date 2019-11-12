@@ -1,4 +1,7 @@
 # realtime-robotic-grasping
 
 ## Overview
-This repository is the supplementary materials of the paper "A Novel Camera Fusion Method based on Switching Scheme and object detection For Real Time Robotic Grasping."[Video](https://youtu.be/aFGE-4iL2w8) by Liu et al. In this repo, we provide code about the use of ur5 and Intel D435 for real-time robotic grasping.
+<p>
+	<img src ="visual_servoing.png" width="300" />
+</p>
+This repository is the supplementary materials of the paper "A Novel Camera Fusion Method based on Switching Scheme and object detection For Real Time Robotic Grasping."[Video](https://youtu.be/7_Y2SJP_AHY) by Liu et al. In this repo, we provide code about the use of ur5 and Intel D435 for real-time robotic grasping.
